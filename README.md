@@ -1,1 +1,1 @@
-this project is not associated with Mojang or Microsoft.
+this project is not affiliated with Mojang or Microsoft.
